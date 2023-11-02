@@ -1,1 +1,2 @@
 I enjoy playing video games, reading, and eating. I know some python, java, and c#. I want to own a small ranch, work for myself, and live my life unbothered by most everyone. # my-first-repo.
+![PFP](https://static.vecteezy.com/system/resources/previews/014/440/633/original/clip-art-of-christmas-mistletoe-branches-leaves-and-red-berries-holiday-illustration-on-isolated-background-for-christmas-decoration-and-celebration-of-winter-christmas-or-new-year-vector.jpg)
